@@ -1,11 +1,11 @@
 For test all invocate with all balls : <br/>
 Windows (cmd.exe)#  <br/>
-set "REACT_APP_NOT_SECRET_CODE=abcdef" && npm start  <br/>
+set "REACT_APP_PROFILE=SUCCESS" && npm start  <br/>
 (Note: Quotes around the variable assignment are required to avoid a trailing whitespace.) <br/>
 Windows (Powershell)# <br/>
-($env:REACT_APP_NOT_SECRET_CODE = "abcdef") -and (npm start) <br/>
+($env:REACT_APP_PROFILE = "SUCCESS") -and (npm start) <br/>
 Linux, macOS (Bash)# <br/>
-REACT_APP_NOT_SECRET_CODE=abcdef npm start <br/>
+REACT_APP_PROFILE=SUCCESS npm start <br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
