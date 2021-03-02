@@ -1,3 +1,6 @@
+For test all invocate with all balls :
+"start": "REACT_APP_PROFILE=SUCESS react-scripts start"
+cmd: npm start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
